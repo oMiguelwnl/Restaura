@@ -2,6 +2,7 @@ import React from "react";
 import HeroSection from "./components/HeroSection";
 import NavBar from "./components/NavBar";
 import Dishes from "./components/Dishes";
+import About from "./components/About";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <HeroSection />
         <NavBar />
         <Dishes />
+        <About/>
       </main>
     </>
   );

@@ -81,7 +81,7 @@ export const DISHES = [
 export const ABOUT = {
   header: "Adoramos cozinhar!",
   content:
-    "No Restaura, acreditamos que uma boa comida vai além do sabor; ela conta uma história de dedicação e criatividade. Desde as criações exclusivas do nosso chef até o nosso atendimento atencioso, cada detalhe é cuidadosamente planejado para garantir que sua visita seja excepcional. Seja saboreando nosso renomado Tikka Kebab ou explorando nosso menu diversificado inspirado em sabores globais, cada prato é uma celebração de sabor e inovação. Junte-se a nós para uma jornada culinária onde cada mordida deixa uma impressão duradoura. Experimente o Restaura—onde cada refeição é uma obra-prima.",
+    "No Restaura, acreditamos que uma boa comida vai além do sabor; ela conta uma história de dedicação e criatividade. Desde as criações exclusivas do nosso chef até o nosso atendimento atencioso, cada detalhe é cuidadosamente planejado para garantir que sua visita seja excepcional. Seja saboreando nosso renomado Beef Wellington ou explorando nosso menu diversificado inspirado em sabores globais, cada prato é uma celebração de sabor e inovação. Junte-se a nós para uma jornada culinária onde cada mordida deixa uma impressão duradoura. Experimente o Restaura onde cada refeição é uma obra-prima.",
 };
 
 export const MISSION =
