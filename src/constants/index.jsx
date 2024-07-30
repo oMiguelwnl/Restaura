@@ -16,111 +16,114 @@ import indian from "../assets/indian.jpeg";
 import { FaXTwitter, FaFacebook, FaInstagram } from "react-icons/fa6";
 
 export const LINKS = [
-  { text: "Dishes", targetId: "dishes" },
-  { text: "About", targetId: "about" },
-  { text: "Mission", targetId: "mission" },
-  { text: "Expertise", targetId: "expertise" },
-  { text: "Review", targetId: "review" },
-  { text: "Contact", targetId: "contact" },
+  { text: "Pratos", targetId: "pratos" },
+  { text: "Sobre", targetId: "sobre" },
+  { text: "Missão", targetId: "missao" },
+  { text: "Especialidades", targetId: "especialidades" },
+  { text: "Avaliações", targetId: "avaliacoes" },
+  { text: "Contato", targetId: "contato" },
 ];
 
 export const DISHES = [
   {
     image: dish1,
-    title: "Spaghetti Carbonara",
-    description: "Creamy pasta with bacon and cheese",
+    title: "Espaguete Carbonara",
+    description: "Massa cremosa com bacon e queijo",
   },
   {
     image: dish2,
-    title: "Chicken Tikka Masala",
-    description: "Indian curry with tender chicken in spicy sauce",
+    title: "Frango Tikka Masala",
+    description: "Curry indiano com frango macio em molho picante",
   },
   {
     image: dish3,
-    title: "Caprese Salad",
-    description: "Fresh tomatoes, mozzarella, and basil with balsamic glaze",
+    title: "Salada Caprese",
+    description: "Tomates frescos, mozzarella e manjericão com molho balsâmico",
   },
   {
     image: dish4,
-    title: "Sushi Roll",
-    description: "Assorted seafood and vegetables wrapped in seaweed and rice",
+    title: "Rolo de Sushi",
+    description: "Frutos do mar variados e vegetais enrolados em alga e arroz",
   },
   {
     image: dish5,
-    title: "Chocolate Lava Cake",
-    description: "Decadent chocolate cake with a gooey center",
+    title: "Bolo de Lava de Chocolate",
+    description: "Bolo de chocolate decadente com um centro derretido",
   },
   {
     image: dish6,
-    title: "Greek Salad",
-    description: "Crisp lettuce, olives, feta cheese, and tangy dressing",
+    title: "Salada Grega",
+    description: "Alface crocante, azeitonas, queijo feta e molho ácido",
   },
   {
     image: dish7,
     title: "Pad Thai",
-    description: "Stir-fried rice noodles with shrimp, tofu, and peanuts",
+    description: "Macarrão de arroz salteado com camarões, tofu e amendoim",
   },
   {
     image: dish8,
-    title: "Peking Duck",
-    description: "Crispy duck with pancakes, cucumber, and hoisin sauce",
+    title: "Pato Pequim",
+    description: "Pato crocante com panquecas, pepino e molho hoisin",
   },
   {
     image: dish9,
     title: "Beef Wellington",
-    description: "Tender beef filet wrapped in pastry with mushrooms and herbs",
+    description: "Filé de carne macio envolto em massa com cogumelos e ervas",
   },
   {
     image: dish10,
     title: "Tiramisu",
     description:
-      "Italian dessert with layers of coffee-soaked biscuits and mascarpone",
+      "Sobremesa italiana com camadas de biscoitos embebidos em café e mascarpone",
   },
 ];
 
 export const ABOUT = {
-  header: "We love cooking!",
+  header: "Adoramos cozinhar!",
   content:
-    "At Restaura, we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef's signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you're savoring our renowned Tikka Kebab or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience Restaura—where every meal is a masterpiece.",
+    "No Restaura, acreditamos que uma boa comida vai além do sabor; ela conta uma história de dedicação e criatividade. Desde as criações exclusivas do nosso chef até o nosso atendimento atencioso, cada detalhe é cuidadosamente planejado para garantir que sua visita seja excepcional. Seja saboreando nosso renomado Tikka Kebab ou explorando nosso menu diversificado inspirado em sabores globais, cada prato é uma celebração de sabor e inovação. Junte-se a nós para uma jornada culinária onde cada mordida deixa uma impressão duradoura. Experimente o Restaura—onde cada refeição é uma obra-prima.",
 };
 
 export const MISSION =
-  "At our restaurant, our mission is to create delicious and memorable dining experiences.";
+  "No nosso restaurante, nossa missão é criar experiências gastronômicas deliciosas e memoráveis.";
 
 export const CUSINES = [
   {
     number: "01.",
     image: italian,
-    title: "Italian",
+    title: "Italiano",
     description:
-      "Experience the flavors of Italy with our exquisite Italian cuisine, featuring traditional recipes and contemporary dishes.",
+      "Experimente os sabores da Itália com nossa requintada culinária italiana, apresentando receitas tradicionais e pratos contemporâneos.",
   },
   {
     number: "02.",
     image: japanese,
-    title: "Japanese",
+    title: "Japonês",
     description:
-      "Delight in the art of Japanese culinary excellence, offering a fusion of classic and modern flavors.",
+      "Desfrute da arte da excelência culinária japonesa, oferecendo uma fusão de sabores clássicos e modernos.",
   },
   {
     number: "03.",
     image: indian,
-    title: "Indian",
+    title: "Indiano",
     description:
-      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
+      "Mergulhe nos sabores ricos e diversos da Índia, com um menu que celebra o patrimônio culinário do país.",
   },
 ];
 
 export const REVIEW = {
   name: "Xaviour Fernando",
-  profession: "Food Critic",
+  profession: "Crítico Gastronômico",
   content:
-    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
+    "“Como crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo estabelecimento. O Restaura, com seu exterior discreto e interior elegantemente projetado, prometeu uma experiência culinária única desde o momento em que entrei. E devo dizer, entregou além das minhas expectativas.”",
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
-  { key: "phone", value: "Phone: 123-456-7890" },
+  {
+    key: "endereço",
+    value: "Endereço: 123 Main Street, Paris, França, 345678",
+  },
+  { key: "telefone", value: "Telefone: 123-456-7890" },
   { key: "email", value: "Email: contact@restaurant.com" },
 ];
 
