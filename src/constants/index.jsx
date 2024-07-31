@@ -115,7 +115,7 @@ export const REVIEW = {
   name: "Xaviour Fernando",
   profession: "Crítico Gastronômico",
   content:
-    "“Como crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo estabelecimento. O Restaura, com seu exterior discreto e interior elegantemente projetado, prometeu uma experiência culinária única desde o momento em que entrei. E devo dizer, entregou além das minhas expectativas.”",
+    "Como crítico gastronômico experiente, minhas expectativas são sempre altas ao entrar em um novo estabelecimento. O Restaura, com seu exterior discreto e interior elegantemente projetado, prometeu uma experiência culinária única desde o momento em que entrei. E devo dizer, entregou além das minhas expectativas.",
 };
 
 export const CONTACT = [

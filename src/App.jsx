@@ -5,6 +5,7 @@ import Dishes from "./components/Dishes";
 import About from "./components/About";
 import Mission from "./components/Mission";
 import Expertise from "./components/Expertise";
+import Review from "./components/Review";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
         <Dishes />
         <About />
         <Mission />
-        <Expertise/>
+        <Expertise />
+        <Review />
       </main>
     </>
   );
