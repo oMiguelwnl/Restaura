@@ -121,7 +121,7 @@ export const REVIEW = {
 export const CONTACT = [
   {
     key: "endereço",
-    value: "Endereço: 123 Main Street, Paris, França, 345678",
+    value: "Endereço: 123 Rua Principal, Paris, França, 345678",
   },
   { key: "telefone", value: "Telefone: 123-456-7890" },
   { key: "email", value: "Email: contact@restaurant.com" },
